@@ -1,0 +1,7 @@
+{
+  "name": "IonicBeginApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
